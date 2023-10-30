@@ -12,5 +12,10 @@ public class Student {  //Parent Class
 		System.out.println("student name jai");
 		
 	}
+public void studentName() {
+		
+		System.out.println("student name jai");
+		
+	}
 
 }
